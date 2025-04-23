@@ -1,1 +1,1 @@
-# lab-8
+## Python MySQL – Read & Update BLOB in MySQL Database
